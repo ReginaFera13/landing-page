@@ -22,13 +22,14 @@ html{
     padding: 10px;
 }
 
-.header-logo,
-.header-links{
+.header-logo{
     font-size: 24px;
     color: #F9FAF8;
 }
 
 .header-links{
+    font-size: 18px;
+    color: #E5E7EB;
     display: flex;
     flex-direction: row;
 }
