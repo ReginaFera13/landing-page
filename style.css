@@ -49,8 +49,12 @@ html{
     align-items: center;
     align-content: center;
     justify-content: space-around;
-    gap: 10px;
+    gap: 5px;
     padding: 75px;
+}
+
+.title-box-text{
+    width: 500px;
 }
 
 .title-box-text-title{
@@ -68,7 +72,7 @@ html{
 }
 
 .title-box-image img{
-    width: 500;
+    width: 500px;
     height: auto;
 }
 
