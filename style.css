@@ -43,6 +43,16 @@ html{
     flex-direction: row;
 }
 
+.title-box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
 .title-box-text-title{
     font-size: 48px;
     font-weight: bolder;
