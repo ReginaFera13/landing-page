@@ -103,6 +103,7 @@ html{
 .info-images img{
     width: 300px;
     height: 500px;
+    border: 1px solid #3882F6;
 }
 
 .info-images-1-text,
