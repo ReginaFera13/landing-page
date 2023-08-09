@@ -72,13 +72,16 @@ html{
     height: auto;
 }
 
+.info{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
 .info-title{
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
 }
 
 .info-images {
@@ -92,5 +95,5 @@ html{
 
 .info-images img{
     width: 300px;
-    height: auto;
+    height: 500px;
 }
