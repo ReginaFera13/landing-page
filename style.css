@@ -1,0 +1,24 @@
+*{
+    border: 1px solid red;
+}
+
+html{
+    font-family: sans-serif;
+}
+
+.header,
+.header-logo,
+.header-links{
+    background-color: #1F2937;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.header-logo,
+.header-links{
+    font-size: 24px;
+    color: #F9FAF8;
+}
