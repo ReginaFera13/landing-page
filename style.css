@@ -32,7 +32,8 @@ html{
 }
 
 .header-links,
-.title-box-text-subtext{
+.title-box-text-subtext,
+.title-box-text-button{
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -42,4 +43,12 @@ html{
     flex-direction: row;
 }
 
+.title-box-text-title{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
 
+.title-box-text-button{
+    background-color: #3882F6;
+}
