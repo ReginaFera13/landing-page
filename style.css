@@ -204,7 +204,7 @@ html{
     padding: 20px; 
 }
 
-.link{
+.link a{
     width: 100%;
     height: 100%;
     top: 0;
@@ -213,7 +213,4 @@ html{
     background-color: transparent;
     height: 1px;
     text-decoration: none;
-}
-.link:visited{
-    color: #F9FAF8;
 }
