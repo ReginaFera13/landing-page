@@ -136,7 +136,8 @@ html{
 }
 
 .quote-person{
-    align-items: right;
+    display: flex;
+    align-items: flex-end;
     font-weight: bold;
     width: 500px;
     height: auto;
