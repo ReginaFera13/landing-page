@@ -207,3 +207,12 @@ html{
     background-color: transparent;
     height: 1px;
 }
+
+.header-links-1,
+.header-links-2,
+.header-links-3,
+.title-box-text-button,
+.cta-button{
+    cursor: pointer;
+    position: relative;
+}
