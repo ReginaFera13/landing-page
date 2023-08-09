@@ -68,6 +68,7 @@ html{
     width: fit-content;
     gap: 20px;
     padding: 0px 10px;
+    box-shadow: #3882F6;
 }
 
 .title-box-image img{
@@ -103,6 +104,7 @@ html{
     width: 300px;
     height: 500px;
     border: 1px solid #3882F6;
+    box-shadow: #3882F6;
 }
 
 .info-images-1-text,
@@ -180,4 +182,5 @@ html{
     gap: 20px;
     padding: 0px 10px;
     border: 1px solid #F9FAF8;
+    box-shadow: #F9FAF8;
 }
