@@ -130,7 +130,14 @@ html{
     gap: 10px;
 }
 
+.quote-text{
+    width: 500px;
+    height: auto;
+}
+
 .quote-person{
-    justify-content: flex-end;
+    align-content: flex-end;
     font-weight: bold;
+    width: 500px;
+    height: auto;
 }
