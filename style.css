@@ -48,13 +48,13 @@ html{
     flex-direction: row;
     align-items: center;
     align-content: center;
-    justify-content: space-around;
+    justify-content: center;
     gap: 5px;
     padding: 75px;
 }
 
 .title-box-text{
-    width: 500px;
+    width: 400px;
 }
 
 .title-box-text-title{
