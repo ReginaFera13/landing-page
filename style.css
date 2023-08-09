@@ -37,6 +37,8 @@ html{
 .header-links{
     display: flex;
     flex-direction: row;
+    gap: 20px;
+    padding: 10px;
 }
 
 .title-box{
@@ -51,6 +53,10 @@ html{
 
 .title-box-text{
     width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
 }
 
 .title-box-text-title{
@@ -64,7 +70,7 @@ html{
     width: fit-content;
     gap: 20px;
     padding: 0px 10px;
-    box-shadow: #3882F6;
+    box-shadow: 5px #3882F6;
 }
 
 .title-box-image img{
@@ -78,6 +84,8 @@ html{
     align-items: center;
     align-content: center;
     justify-content: center;
+    gap: 20px;
+    padding: 10px;
 }
 
 .info-title{
@@ -100,7 +108,7 @@ html{
     width: 300px;
     height: 500px;
     border: 1px solid #3882F6;
-    box-shadow: #3882F6;
+    box-shadow: 5px #3882F6;
 }
 
 .info-images-1-text,
@@ -110,6 +118,8 @@ html{
     align-items: center;
     align-content: center;
     justify-content: center;  
+    gap: 20px;
+    padding: 10px;
 }
 
 .quote{
@@ -123,7 +133,7 @@ html{
     align-items: center;
     align-content: center;
     justify-content: center;  
-    padding: 20px;
+    padding: 40px;
     gap: 10px;
 }
 
@@ -164,7 +174,8 @@ html{
 }
 
 .cta-text-title{
-    font-size: 24px;
+    font-size: 18px;
+    font-weight: bold;
     color: #F9FAF8;
 }
 
@@ -179,7 +190,7 @@ html{
     gap: 20px;
     padding: 0px 10px;
     border: 1px solid #F9FAF8;
-    box-shadow: #F9FAF8;
+    box-shadow: 5px #F9FAF8;
 }
 
 .footer{
