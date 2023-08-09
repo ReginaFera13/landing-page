@@ -214,5 +214,5 @@ html{
     height: 1px;
 }
 .a:visited{
-    color: inherit;
+    color: initial;
 }
