@@ -68,7 +68,6 @@ html{
     width: fit-content;
     gap: 20px;
     padding: 0px 10px;
-    border-radius: 10px;
 }
 
 .title-box-image img{
@@ -180,6 +179,5 @@ html{
     width: fit-content;
     gap: 20px;
     padding: 0px 10px;
-    border-radius: 10px;
     border: 1px solid #F9FAF8;
 }
