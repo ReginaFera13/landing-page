@@ -152,6 +152,7 @@ html{
     align-items: center;
     align-content: center;
     justify-content: center;
+    padding: 20px;
 }
 
 .cta{
@@ -183,4 +184,15 @@ html{
     padding: 0px 10px;
     border: 1px solid #F9FAF8;
     box-shadow: #F9FAF8;
+}
+
+.footer{
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 20px; 
 }
