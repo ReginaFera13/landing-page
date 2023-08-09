@@ -1,1 +1,1 @@
-# landing-page
+# Thor & Co Coaching Services LLC
