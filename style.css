@@ -196,3 +196,17 @@ html{
     justify-content: center;
     padding: 20px; 
 }
+
+.header-links-1,
+.header-links-2,
+.header-links-1,
+.title-box-text-button,
+.cta-button{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: transparent;
+}
