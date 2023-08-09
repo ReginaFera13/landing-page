@@ -50,7 +50,7 @@ html{
     align-content: center;
     justify-content: space-around;
     gap: 20px;
-    padding: 100px;
+    padding: 75px;
 }
 
 .title-box-text-title{
@@ -67,6 +67,7 @@ html{
     border-radius: 10px;
 }
 
-.title-box-image{
+.title-box-image img{
     width: 500px;
+    height: auto;
 }
