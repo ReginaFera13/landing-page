@@ -48,7 +48,7 @@ html{
     flex-direction: row;
     align-items: center;
     align-content: center;
-    justify-content: center;
+    justify-content: space-around;
     gap: 20px;
     padding: 10px;
 }
@@ -61,4 +61,8 @@ html{
 
 .title-box-text-button{
     background-color: #3882F6;
+    width: fit-content;
+    gap: 20px;
+    padding: 10px;
+    border-radius: 10px;
 }
