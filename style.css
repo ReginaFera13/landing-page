@@ -127,3 +127,8 @@ html{
     align-content: center;
     justify-content: center;  
 }
+
+.quote-person{
+    justify-content: flex-end;
+    font-weight: bold;
+}
