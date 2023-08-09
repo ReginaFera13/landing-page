@@ -15,10 +15,18 @@ html{
 .header{
     display: flex;
     flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
 }
 
 .header-logo,
 .header-links{
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.header-links{
+    display: flex;
+    flex-direction: row;
 }
